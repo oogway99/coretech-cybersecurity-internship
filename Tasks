@@ -1,0 +1,26 @@
+Name: Rameen Mohsin
+Education: Mphil Applied Mathematics
+City: Sheikhupura 
+skills: basic use of some cyber tools like nmap, nessus, zap, wireshark, burpsuite, etc. along with the basic knowledge of machine learning, neural networks.
+Learning Goals: want to learn and integrate cyber and AI like somewhat cyber for AI
+
+What is Cybersecurity?
+cyber term is related to copmuter networks, internet, applications,etc. and security is all about protection so cyber security is the system to protect all those networks, applications data, etc. from unautherized access.
+
+What are the main types of cyber threats?
+1. Malware
+2. Phishing Attacks
+3. Social Engineering
+4. SQL injections, cross-site scripting
+5. Man-in-the-Middle
+
+What is the CIA Triad?
+It is the basic model of cybersecurity, to help organizations for the development of security systems, used for finding vulnerabilities and methods for creating solutions.
+three components are: Confidentiality: Ensures that sensitive information is accessible only to authorized users
+    Integrity: Ensures that data remains accurate, complete, and unaltered
+    Availability: Ensures that systems, services, and data are accessible when needed by authorized users
+What is Ethical Hacking?
+Ethical hacking is the use of hacking techniques by friendly parties in an attempt to uncover, understand and fix security vulnerabilities in a network or computer system. Their goal is always to improve network security without harming the network or its users.
+How Can Cybersecurity Help CoreTech Innovation?
+How it cannot be helpful for you?? if your server is under attack, you are facing phishing attacks, or even no attacks just want to monitor and analyse logs you need cybertools like wazuh or splunk
+so cybersecurity is the crucial need for every single company for the protection of their data.
