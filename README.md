@@ -1,1 +1,4 @@
 # coretech-cybersecurity-internship
+
+
+<img width="499" height="516" alt="image" src="https://github.com/user-attachments/assets/9250faa2-4d85-49a9-96c1-779726cdb9f0" />
