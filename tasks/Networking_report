@@ -25,5 +25,3 @@ it also includes: framing, physical addressing, error control, flow control, ace
 Layer 1: The physical layer
 it comprises the physical assets, like routers and USB cables, that convert data into strings of 1s and 0s for transmission to higher layers.
 it is also responsible for: bit rate control, Bit synchronization, Transmission mode, Physical topologies.
-
-
