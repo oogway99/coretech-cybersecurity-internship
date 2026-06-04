@@ -1,0 +1,29 @@
+// OSI Model //
+
+The Open Systems Interconnection (OSI) model, also called the OSI reference model is a conceptual model that divides network communication and interoperability into seven abstract layers, which are:
+
+
+
+Layer 7: The application layer
+it initiates communication with the network, including the protocols and data manipulation processes that convert computer-readable network data into user-readable responses.
+It’s responsible for processes such as: 1. File transfer 2. Communication and authentication 3. Remote access 4. Directory services
+Layer 6: The presentation layer
+it prepares data for the application layer, including data translation, compression and encryption.
+It supports secure sockets layer/transport layer security (SSL/TLS) protocols, JPEG protocols (for image compression) and MPEG protocols (for video compression)
+Layer 5: The session layer
+it initiates and terminates connections between two devices interacting on the network, making sure that resources are neither overused nor underutilized.
+key functions are: Session interactions, synchronization, session recovery
+Layer 4: The transport layer
+it transmits end-to-end data between two devices interacting on the network, making sure that data isn’t lost, misconfigured or corrupted.
+The transport layer also handles: Service point addressing, flow control, multiplexing
+Layer 3: The network layer
+it handles data addressing, routing and forwarding processes for devices interacting across different networks. If the devices are on the same network, they don’t need the network layer to interact.
+The network layer primarily uses the Internet Protocol v4 (IPv4) and IPv6 and is responsible for: Packet fragmentation and reassembly, Traffic control
+Layer 2: The data link layer
+it manages data routing between two interacting devices on the same network. When the DLL receives a packet from the network layer, it divides the packet into data “frames” according to the frame size of the network interface card (NIC) and transmits it to the host using its MAC address
+it also includes: framing, physical addressing, error control, flow control, acess control
+Layer 1: The physical layer
+it comprises the physical assets, like routers and USB cables, that convert data into strings of 1s and 0s for transmission to higher layers.
+it is also responsible for: bit rate control, Bit synchronization, Transmission mode, Physical topologies.
+
+
